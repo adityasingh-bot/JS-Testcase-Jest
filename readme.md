@@ -1,4 +1,5 @@
-Dependencies
+Dependencies - 
+
 Jest: A JavaScript testing framework. Jest provides a simple and powerful testing environment with features like test suites, assertions, and test coverage.
 
 Jest was chosen for its ease of use, comprehensive documentation, and popularity within the JavaScript community.
