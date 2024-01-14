@@ -1,3 +1,12 @@
+Dependencies
+Jest: A JavaScript testing framework. Jest provides a simple and powerful testing environment with features like test suites, assertions, and test coverage.
+
+Jest was chosen for its ease of use, comprehensive documentation, and popularity within the JavaScript community.
+
+File System module (fs): The Node.js File System module is used for handling file operations, such as reading and writing to files.
+
+The fs module is essential for reading the input data from clicks.json and writing the result set to result-set.json.
+
 1. Install dependencies:
 npm install
 
@@ -15,7 +24,7 @@ npm install --save-dev jest
 
 File Structure:
 project-root
-|-- main.js
+|-- solution.js
 |-- tests.js
 |-- clicks.json
 |-- jest.config.js
