@@ -1,0 +1,15 @@
+{
+  "name": "solution_kavya_srivastava",
+  "version": "1.0.0",
+  "description": "Solution ",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest",
+    "solution": "node solution.js"
+  },
+  "author": "Kavya Srivastava",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
